@@ -7,7 +7,7 @@ Play game 2048.
 
 # Setup Locally
 ```bash
-git clone https://github.com/jojozhuang/game-2048-electron.git
+git clone https://github.com/devdreamsolution/electron-game-2048.git
 cd game-2048-electron
 npm install
 npm start
@@ -18,9 +18,3 @@ Game will be launched, enjoy!
 ```bash
 npm run dist
 ```
-
-# Portfolio
-Read portfolio [Game 2048(Electron)](https://jojozhuang.github.io/portfolio/game-2048-electron/) to learn the main functions of this cross-platform desktop app.
-
-# Tutorial
-Read tutorial [Converting Web App to Desktop App with Electron](https://jojozhuang.github.io/tutorial/converting-web-app-to-desktop-app-with-electron) to learn how this cross-platform desktop app is built.
